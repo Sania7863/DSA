@@ -1,0 +1,365 @@
+Perfect! For placements, you don't need dozens of formulas. About 15-20 core formulas solve almost every Profit & Loss question.
+
+1. Basic Definitions
+Cost Price (CP)
+
+Price at which an item is bought.
+
+Selling Price (SP)
+
+Price at which an item is sold.
+
+Profit (Gain)
+Profit=SP−CP
+Loss
+Loss=CP−SP
+2. Profit Percentage
+Profit%=
+CP
+Profit
+	​
+
+×100
+
+or
+
+Profit%=
+CP
+SP−CP
+	​
+
+×100
+Shortcut
+
+If CP = 100 and SP = 120
+
+Profit = 20
+
+Profit % = 20%
+
+3. Loss Percentage
+Loss%=
+CP
+Loss
+	​
+
+×100
+
+or
+
+Loss%=
+CP
+CP−SP
+	​
+
+×100
+4. Find SP when CP and Profit % are given
+SP=CP(1+
+100
+Profit%
+	​
+
+)
+Example
+
+CP = 500
+
+Profit = 20%
+
+SP=500×1.2=600
+5. Find SP when CP and Loss % are given
+SP=CP(1−
+100
+Loss%
+	​
+
+)
+Example
+
+CP = 500
+
+Loss = 10%
+
+SP=500×0.9=450
+6. Find CP when SP and Profit % are given
+CP=
+100+Profit%
+SP×100
+	​
+
+Example
+
+SP = 120
+
+Profit = 20%
+
+CP=
+120
+120×100
+	​
+
+=100
+7. Find CP when SP and Loss % are given
+CP=
+100−Loss%
+SP×100
+	​
+
+Example
+
+SP = 90
+
+Loss = 10%
+
+CP=
+90
+90×100
+	​
+
+=100
+8. Successive Profit Formula
+
+Profit a% then profit b%
+
+Net Profit%=a+b+
+100
+ab
+	​
+
+Example
+
+20% then 10%
+
+20+10+
+100
+20×10
+	​
+
+=32%
+9. Successive Loss Formula
+
+Loss a% then loss b%
+
+Net Loss%=a+b+
+100
+ab
+	​
+
+Example
+
+20% then 10%
+
+32% loss
+10. Profit then Loss
+
+Profit a%, Loss b%
+
+Net%=a−b−
+100
+ab
+	​
+
+
+Positive ⇒ Profit
+
+Negative ⇒ Loss
+
+Example
+
+Profit 20%, Loss 10%
+
+20−10−2
+8% Profit
+11. Same SP, x% Profit and x% Loss
+
+Very famous placement question.
+
+Result
+
+Always Loss.
+
+Loss%=(
+10
+x
+	​
+
+)
+2
+Example
+
+20% profit and 20% loss
+
+(
+10
+20
+	​
+
+)
+2
+4%
+
+Loss.
+
+12. Marked Price (MP)
+
+Price written on tag.
+
+Discount
+Discount=MP−SP
+Discount %
+Discount%=
+MP
+Discount
+	​
+
+×100
+13. SP after Discount
+SP=MP(1−
+100
+Discount%
+	​
+
+)
+Example
+
+MP = 1000
+
+Discount = 20%
+
+SP=1000×0.8=800
+14. Successive Discounts
+
+Discount a% then b%
+
+Net Discount=a+b−
+100
+ab
+	​
+
+Example
+
+20% then 10%
+
+20+10−2
+28%
+15. Profit % on Selling Price
+
+Sometimes asked.
+
+Normally:
+
+Profit%=
+CP
+Profit
+	​
+
+×100
+
+But if given on SP:
+
+Profit% on CP=
+100−P
+P
+	​
+
+×100
+Example
+
+Profit = 20% of SP
+
+80
+20
+	​
+
+×100
+25%
+16. Loss % on Selling Price
+
+If loss is x% of SP
+
+Loss% on CP=
+100+x
+x
+	​
+
+×100
+Example
+
+Loss = 20% of SP
+
+120
+20
+	​
+
+×100
+16.67%
+17. Dishonest Shopkeeper (Very Common)
+Uses less weight and sells at CP
+
+Example:
+
+Uses 900 g instead of 1000 g.
+
+Profit%=
+900
+1000−900
+	​
+
+×100
+11.11%
+18. Required Selling Price for Desired Profit
+
+Desired profit = p%
+
+SP=
+100
+100+p
+	​
+
+×CP
+
+Example:
+
+25% profit
+
+SP=1.25×CP
+19. Required Selling Price to Recover Loss
+
+Loss = x%
+
+Required gain %
+
+100−x
+x
+	​
+
+×100
+Example
+
+Loss = 20%
+
+Required gain
+
+80
+20
+	​
+
+×100
+25%
+
+Important: After 20% loss, 20% profit does NOT recover it.
+
+Need 25% profit.
+
+Placement Shortcuts to Memorize
+Profit/Loss	SP : CP
+10% Profit	11 : 10
+20% Profit	6 : 5
+25% Profit	5 : 4
+50% Profit	3 : 2
+10% Loss	9 : 10
+20% Loss	4 : 5
+25% Loss	3 : 4
+50% Loss	1 : 2
+
+These ratios save a lot of calculation time in aptitude tests.
